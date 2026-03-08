@@ -7,7 +7,7 @@ from pytorchcv.model_provider import get_model as ptcv_get_model
 
 DATASET_ROOTS = {
     "imagenet_train": "YOUR_PATH/CLS-LOC/train/",
-    "imagenet_val": "YOUR_PATH/ImageNet_val/",
+    "imagenet_val": "imagenet/val/",
     "cub_train":"data/CUB/train",
     "cub_val":"data/CUB/test"
 }

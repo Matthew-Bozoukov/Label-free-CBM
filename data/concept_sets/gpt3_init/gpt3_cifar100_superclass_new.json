@@ -1,0 +1,744 @@
+{
+    "apple": [
+        "- fruit",
+        "-fruit",
+        "food",
+        "object",
+        "organism",
+        "plant",
+        "plant product"
+    ],
+    "aquarium fish": [
+        "- fish",
+        "Possible superclasses for \"aquarium fish\":",
+        "animal",
+        "aquarium inhabitant",
+        "aquatic animal",
+        "captive animal",
+        "entity",
+        "fish",
+        "living thing",
+        "organism",
+        "pet",
+        "vertebrate"
+    ],
+    "baby": [
+        "- human",
+        "-human",
+        "infant",
+        "mammal",
+        "person",
+        "young mammal"
+    ],
+    "bear": [
+        "- mammal",
+        "animal",
+        "vertebrate"
+    ],
+    "beaver": [
+        "-rodent",
+        "animal",
+        "mammal",
+        "vertebrate"
+    ],
+    "bed": [
+        "- furniture",
+        "household item",
+        "object"
+    ],
+    "bee": [
+        "-arthropod",
+        "animal",
+        "insect"
+    ],
+    "beetle": [
+        "- insect",
+        "animal",
+        "arthropod",
+        "invertebrate"
+    ],
+    "bicycle": [
+        "- vehicle",
+        "-vehicle",
+        "conveyance",
+        "mode of transport",
+        "object",
+        "transportation",
+        "wheeled vehicle"
+    ],
+    "bottle": [
+        "- container",
+        "object",
+        "package",
+        "packaging",
+        "receptacle",
+        "vessel"
+    ],
+    "bowl": [
+        "- dish",
+        "artifact",
+        "container",
+        "household item",
+        "kitchenware",
+        "man-made object",
+        "object",
+        "physical object",
+        "receptacle"
+    ],
+    "boy": [
+        "- human",
+        "animal",
+        "child",
+        "male",
+        "mammal",
+        "person",
+        "primate",
+        "vertebrate"
+    ],
+    "bridge": [
+        "-structure",
+        "construction",
+        "man-made object",
+        "transportation infrastructure"
+    ],
+    "bus": [
+        "-vehicle",
+        "conveyance",
+        "machine",
+        "object",
+        "transport",
+        "transportation",
+        "vehicle (land)",
+        "vehicle component category: wheeled vehicle"
+    ],
+    "butterfly": [
+        "- insect",
+        "-arthropod",
+        "animal",
+        "arthropod",
+        "insect"
+    ],
+    "camel": [
+        "- mammal",
+        "animal",
+        "vertebrate"
+    ],
+    "can": [
+        "-container",
+        "artifact",
+        "container",
+        "metal container",
+        "object",
+        "thingBetter succinctly:",
+        "vehicle (when referring to a can as a cylinder? \u2014 not applicable) Correct list:"
+    ],
+    "castle": [
+        "- building",
+        "edifice",
+        "landmark",
+        "man-made object",
+        "structure"
+    ],
+    "caterpillar": [
+        "- insect",
+        "animal",
+        "arthropod"
+    ],
+    "cattle": [
+        "- bovine",
+        "-ungulate",
+        "animal",
+        "domesticated animal",
+        "farm animal",
+        "herbivore",
+        "livestock",
+        "mammal",
+        "ungulate"
+    ],
+    "chair": [
+        "- furniture",
+        "artifact",
+        "object",
+        "seating"
+    ],
+    "chimpanzee": [
+        "-ape",
+        "animal",
+        "mammal",
+        "primate",
+        "vertebrate"
+    ],
+    "clock": [
+        "- timepiece",
+        "artifact",
+        "device",
+        "instrument",
+        "manufactured item",
+        "mechanical/electronic apparatus",
+        "object",
+        "physical object",
+        "thing"
+    ],
+    "cloud": [
+        "- atmosphere phenomenon",
+        "- water vapor formation",
+        "atmospheric phenomenon",
+        "meteorological feature",
+        "meteorological phenomenon",
+        "natural object",
+        "natural phenomenon",
+        "observable phenomenon",
+        "physical object",
+        "thing",
+        "weather element",
+        "weather phenomenon"
+    ],
+    "cockroach": [
+        "- insect",
+        "-arthropod",
+        "animal",
+        "arthropod",
+        "insect"
+    ],
+    "couch": [
+        "- furniture",
+        "furnishing",
+        "object",
+        "seating"
+    ],
+    "crab": [
+        "-arthropod",
+        "animal",
+        "crustacean"
+    ],
+    "crocodile": [
+        "- reptile",
+        "animal",
+        "vertebrate"
+    ],
+    "cup": [
+        "- container",
+        "- drinkware",
+        "artifact",
+        "container",
+        "drinking vessel",
+        "household item",
+        "object",
+        "receptacle",
+        "vessel"
+    ],
+    "dinosaur": [
+        "- reptile (traditional/common superclass; many people classify dinosaurs broadly as reptiles)",
+        "- reptile (traditional/common usage)",
+        "animal",
+        "archosaur",
+        "diapsid",
+        "vertebrate"
+    ],
+    "dolphin": [
+        "- mammal",
+        "animal",
+        "vertebrate"
+    ],
+    "elephant": [
+        "- mammal",
+        "animal",
+        "vertebrate"
+    ],
+    "flatfish": [
+        "- fish",
+        "animal",
+        "vertebrate"
+    ],
+    "forest": [
+        "- ecosystem",
+        "-ecosystem",
+        "habitat",
+        "landform",
+        "landscape",
+        "natural environment",
+        "plant community"
+    ],
+    "fox": [
+        "- canid",
+        "- mammal",
+        "animal",
+        "mammal",
+        "vertebrate"
+    ],
+    "girl": [
+        "- human",
+        "animal",
+        "mammal",
+        "person",
+        "primate",
+        "vertebrate"
+    ],
+    "hamster": [
+        "-rodent",
+        "animal",
+        "mammal"
+    ],
+    "house": [
+        "- building",
+        "- dwelling",
+        "artifact",
+        "building",
+        "dwelling",
+        "location",
+        "man-made object",
+        "physical object",
+        "property",
+        "shelter",
+        "structure"
+    ],
+    "kangaroo": [
+        "- marsupial",
+        "animal",
+        "mammal",
+        "vertebrate"
+    ],
+    "keyboard": [
+        "- input device",
+        "-input device",
+        "artifact",
+        "computer peripheral",
+        "device",
+        "electronic device",
+        "equipment",
+        "hardware",
+        "object",
+        "peripheral",
+        "tool"
+    ],
+    "lamp": [
+        "-light",
+        "-light fixture",
+        "electrical appliance",
+        "furniture",
+        "object"
+    ],
+    "lawn mower": [
+        "- machine",
+        "- mower",
+        "device",
+        "equipment",
+        "garden equipment",
+        "garden tool",
+        "implement",
+        "machine",
+        "object",
+        "tool",
+        "vehicle"
+    ],
+    "leopard": [
+        "- big cat",
+        "- mammal",
+        "animal",
+        "carnivore",
+        "mammal",
+        "vertebrate"
+    ],
+    "lion": [
+        "- mammal",
+        "animal",
+        "vertebrate"
+    ],
+    "lizard": [
+        "- reptile",
+        "animal",
+        "vertebrate"
+    ],
+    "lobster": [
+        "-arthropod",
+        "animal",
+        "crustacean"
+    ],
+    "man": [
+        "- human",
+        "animal",
+        "mammal",
+        "primate",
+        "vertebrate"
+    ],
+    "maple tree": [
+        "- plant",
+        "- tree",
+        "organism",
+        "plant",
+        "tree"
+    ],
+    "motorcycle": [
+        "-vehicle",
+        "machine",
+        "motor vehicle",
+        "transportation",
+        "transportation device"
+    ],
+    "mountain": [
+        "- landform",
+        "geographic feature",
+        "natural feature",
+        "physical geographic feature"
+    ],
+    "mouse": [
+        "-rodent",
+        "animal",
+        "mammal",
+        "vertebrate"
+    ],
+    "mushroom": [
+        "- fungus",
+        "eukaryote",
+        "life-form",
+        "lifeform",
+        "living thing",
+        "organism"
+    ],
+    "oak tree": [
+        "- tree",
+        "-plant",
+        "living thing (organism)",
+        "organism",
+        "plant",
+        "tree"
+    ],
+    "orange": [
+        "Here are likely superclasses for \"orange\" (the fruit/color \u2014 include both senses):Sense: orange (fruit)",
+        "Need clarification: do you mean the color \"orange\" or the fruit \"orange\"? Provide both:If fruit (Citrus sinensis/Citrus \u00d7 sinensis or Citrus \u00d7 aurantium etc.):",
+        "agricultural product",
+        "attribute",
+        "color",
+        "edible (food)",
+        "edible plant product",
+        "food item",
+        "fruit",
+        "living organismIf color:",
+        "perceptual qualityIf you meant a different sense (e.g., the tree), say which and I\u2019ll adjust.",
+        "physical attribute of light/appearance",
+        "plant organ",
+        "plant product",
+        "produceSense: orange (color)",
+        "sensory property",
+        "sensory quality",
+        "visual property"
+    ],
+    "orchid": [
+        "-plant",
+        "flowering plant",
+        "living organism",
+        "organism",
+        "photosynthetic organism"
+    ],
+    "otter": [
+        "- mammal",
+        "animal",
+        "vertebrate"
+    ],
+    "palm tree": [
+        "-plant",
+        "organism",
+        "tree"
+    ],
+    "pear": [
+        "- fruit",
+        "edible",
+        "edible plant product",
+        "food",
+        "organism (or living thing)",
+        "plant product"
+    ],
+    "pickup truck": [
+        "-vehicle",
+        "automobile",
+        "transportation equipment",
+        "transportation vehicle"
+    ],
+    "pine tree": [
+        "- tree",
+        "-plant",
+        "living thing",
+        "organism",
+        "plant",
+        "tree"
+    ],
+    "plain": [
+        "-attribute",
+        "-landscape",
+        "appearance",
+        "area",
+        "quality",
+        "thing"
+    ],
+    "plate": [
+        "- dish",
+        "-dish",
+        "artifact",
+        "container",
+        "man-made object",
+        "object",
+        "physical object",
+        "tableware"
+    ],
+    "poppy": [
+        "-plant",
+        "flowering plant",
+        "organism"
+    ],
+    "porcupine": [
+        "-rodent",
+        "animal",
+        "mammal",
+        "vertebrate"
+    ],
+    "possum": [
+        "- marsupial",
+        "animal",
+        "mammal",
+        "vertebrate"
+    ],
+    "rabbit": [
+        "- mammal",
+        "animal",
+        "vertebrate"
+    ],
+    "raccoon": [
+        "- mammal",
+        "animal",
+        "vertebrate"
+    ],
+    "ray": [
+        "Do you mean the animal \"ray\" (cartilaginous fish like manta or stingray) or the geometric/physics term \"ray\" (straight line of travel)?",
+        "Possible superclasses for \"ray\":",
+        "animal(If \"ray\" meant a ray of light:)",
+        "cartilaginous fish (Chondrichthyes)",
+        "electromagnetic radiation",
+        "energy",
+        "fish (if referring to manta, stingray \u2014 cartilaginous fish)",
+        "physical entity",
+        "physical phenomenon",
+        "vertebrate"
+    ],
+    "road": [
+        "-transportation infrastructure",
+        "-way",
+        "infrastructure",
+        "linear feature",
+        "man-made object",
+        "man-made structure",
+        "path",
+        "physical entity"
+    ],
+    "rocket": [
+        "-vehicle",
+        "machine",
+        "object",
+        "transportation device",
+        "vehicle component (propulsion device)",
+        "weapon",
+        "weapon (when used as weapon)"
+    ],
+    "rose": [
+        "-plant",
+        "flowering plant",
+        "organism"
+    ],
+    "sea": [
+        "- body of water",
+        "- oceanic feature",
+        "body of water",
+        "geographic feature",
+        "location",
+        "natural feature"
+    ],
+    "seal": [
+        "Do you mean the animal (pinniped) or the verb/object (to close/fasten) or the stamp/insignia? Common superclass sets:If the animal (seal, pinniped):",
+        "Here are suitable superclasses (hypernyms) for \"seal\":",
+        "action",
+        "animal(If you meant the verb \"to seal\" or the noun meaning \"official stamp,\" different superclasses apply \u2014 e.g., for the verb: action/verb; for the stamp: instrument/object.)",
+        "animalIf the verb \"to seal\" (close/fasten):",
+        "event",
+        "mammal",
+        "mark",
+        "objectTell me which sense you want if you want only one set.",
+        "processIf the object \"a seal\" (stamp, emblem):",
+        "symbol",
+        "vertebrate"
+    ],
+    "shark": [
+        "- fish",
+        "animal",
+        "vertebrate"
+    ],
+    "shrew": [
+        "- mammal",
+        "animal",
+        "vertebrate"
+    ],
+    "skunk": [
+        "- mammal",
+        "animal",
+        "vertebrate"
+    ],
+    "skyscraper": [
+        "- building",
+        "man-made object",
+        "structure"
+    ],
+    "snail": [
+        "- mollusk",
+        "animal",
+        "invertebrate"
+    ],
+    "snake": [
+        "- reptile",
+        "animal",
+        "vertebrate"
+    ],
+    "spider": [
+        "-arthropod",
+        "animal",
+        "invertebrate",
+        "organism"
+    ],
+    "squirrel": [
+        "-rodent",
+        "animal",
+        "mammal"
+    ],
+    "streetcar": [
+        "-vehicle",
+        "artifact",
+        "object",
+        "transport"
+    ],
+    "sunflower": [
+        "- plant",
+        "-plant",
+        "angiosperm",
+        "flowering plant",
+        "organism"
+    ],
+    "sweet pepper": [
+        "-plant",
+        "-vegetable",
+        "food",
+        "organism",
+        "plant",
+        "vegetable"
+    ],
+    "table": [
+        "- furniture",
+        "artifact",
+        "entity",
+        "furnishing",
+        "object",
+        "physical object"
+    ],
+    "tank": [
+        "-vehicle",
+        "Possible superclasses for \"tank\":",
+        "armored vehicle",
+        "container",
+        "machine",
+        "military equipment",
+        "military vehicle",
+        "object",
+        "structure",
+        "vehicle"
+    ],
+    "telephone": [
+        "-communication device",
+        "device",
+        "electronic device",
+        "instrument",
+        "object",
+        "technology",
+        "telecommunications equipment",
+        "tool"
+    ],
+    "television": [
+        "-electronic device",
+        "appliance",
+        "artifact",
+        "communication device",
+        "device",
+        "entertainment device",
+        "machine",
+        "object"
+    ],
+    "tiger": [
+        "- feline",
+        "animal",
+        "mammal",
+        "vertebrate"
+    ],
+    "tractor": [
+        "-vehicle",
+        "machine",
+        "object",
+        "transportation equipment",
+        "vehicle component: wheeled vehicle (or simply wheeled vehicle)"
+    ],
+    "train": [
+        "-vehicle",
+        "artifact",
+        "machine",
+        "object",
+        "thing",
+        "transport"
+    ],
+    "trout": [
+        "- fish",
+        "animal",
+        "vertebrate"
+    ],
+    "tulip": [
+        "-plant",
+        "flowering plant",
+        "organism"
+    ],
+    "turtle": [
+        "- reptile",
+        "animal",
+        "vertebrate"
+    ],
+    "wardrobe": [
+        "- furniture",
+        "household object",
+        "object",
+        "storage furniture"
+    ],
+    "whale": [
+        "- mammal",
+        "animal",
+        "vertebrate"
+    ],
+    "willow tree": [
+        "- tree",
+        "-plant",
+        "organism",
+        "plant",
+        "tree"
+    ],
+    "wolf": [
+        "- mammal",
+        "animal",
+        "vertebrate"
+    ],
+    "woman": [
+        "- human",
+        "adult",
+        "animal",
+        "female",
+        "mammal",
+        "person",
+        "primate",
+        "vertebrate"
+    ],
+    "worm": [
+        "-annelid",
+        "animal",
+        "invertebrate"
+    ]
+}

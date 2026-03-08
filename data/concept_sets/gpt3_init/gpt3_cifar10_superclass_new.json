@@ -1,0 +1,80 @@
+{
+    "airplane": [
+        "-vehicle",
+        "machine",
+        "object",
+        "physical artifact",
+        "transport",
+        "transportation"
+    ],
+    "automobile": [
+        "-vehicle",
+        "artifact",
+        "machine",
+        "transportation",
+        "transportation device"
+    ],
+    "bird": [
+        "-vertebrate",
+        "animal",
+        "living thing",
+        "natural object",
+        "organism"
+    ],
+    "cat": [
+        "- animal",
+        "- mammal",
+        "animal",
+        "carnivore",
+        "living thing",
+        "mammal",
+        "organism",
+        "pet",
+        "vertebrate"
+    ],
+    "deer": [
+        "- mammal",
+        "animal",
+        "vertebrate"
+    ],
+    "dog": [
+        "- mammal",
+        "animal",
+        "vertebrate"
+    ],
+    "frog": [
+        "- amphibian",
+        "animal",
+        "vertebrate"
+    ],
+    "horse": [
+        "- mammal",
+        "animal",
+        "vertebrate"
+    ],
+    "ship": [
+        "- vehicle",
+        "- vessel",
+        "artifact",
+        "conveyance",
+        "craft",
+        "man-made structure",
+        "means of transportation",
+        "object",
+        "physical object",
+        "transport",
+        "vehicle",
+        "vessel",
+        "watercraft"
+    ],
+    "truck": [
+        "-vehicle",
+        "artifact",
+        "conveyance",
+        "machine",
+        "object",
+        "transport",
+        "transportation",
+        "vehicle-type (road vehicle)"
+    ]
+}

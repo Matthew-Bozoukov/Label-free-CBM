@@ -1,0 +1,27 @@
+[project]
+name = "label-free-cbm"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9,<3.14"
+dependencies = [
+    "datasets>=4.5.0",
+    "ftfy>=6.1.1",
+    "gdown>=4.7.1",
+    "huggingface-hub>=0.36.2",
+    "jupyter>=1.1.1",
+    "kaggle>=1.7.4.5",
+    "matplotlib>=3.5.1",
+    "notebook>=7.5.4",
+    "numpy<2",
+    "openai>=2.26.0",
+    "packaging>=26.0",
+    "pandas>=1.5.3",
+    "pytorchcv>=0.0.67",
+    "regex>=2022.10.31",
+    "sentence-transformers>=2.2.2",
+    "setuptools>=82.0.0",
+    "torch>=2.1",
+    "torchvision>=0.16",
+    "tqdm>=4.64.1",
+]

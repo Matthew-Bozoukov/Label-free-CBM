@@ -1,0 +1,256 @@
+- a large, muscular body
+- a leash
+- a person
+- a pond
+- a road
+- a stable
+- a stout, compact body
+- amphibian
+- animal
+- antlers
+- cargo
+- feathers
+- four legs
+- four slender legs
+- four wheels
+- fur
+- fur or hair
+- large size relative to cars
+- runway
+- sky
+- vehicle
+- vessel
+- water
+- whiskers (vibrissae)
+- wings
+-vertebrate
+GPS unit
+a barn
+a bed or cushion
+a bed/blanket
+a bone
+a bridle
+a collar
+a compact, elongated body
+a corral
+a crate/carrier
+a deck or flat surface on top
+a dog bed
+a fence
+a field
+a garage
+a groom/handler
+a home (indoors)
+a license plate
+a litter box
+a long neck
+a mane along the neck
+a net
+a park/yard
+a pasture
+a person
+a person (observer)
+a person/owner
+a rider
+a saddle
+a scratching post
+a steering wheel
+a tail
+a toy (mouse, ball, string)
+a trailer
+a trough
+a vet or grooming tools
+ability to lay eggs
+air traffic controllers
+aisle
+algae
+anchor
+artifact
+baggage cart
+beak
+beak (no teeth)
+binoculars
+bird feeder
+bird song/calls
+birdbath
+birdwatcher
+black box
+boarding gate
+branches
+buck
+cabin
+captain
+cargo
+cargo (or containers)
+cargo bed (or box)
+carnivore
+cat bed
+chicks
+chirping/singing
+cockpit
+company logo or decals
+compass
+control tower
+conveyance
+couch or furniture
+craft
+creek or stream
+crew
+crew (or sailors)
+croaking/sounds
+deck
+dock
+dock (or harbor)
+doe
+doe or stag
+doors for entry/exit
+driver
+ears
+ears (upright or floppy)
+eggs
+enclosed cab for driver(s)
+enclosed passenger compartment
+engines
+exhaust pipe
+eyes
+fawn
+fawn (young deer)
+feathers (down)
+feathers (molted)
+feathers in plumage
+feeder
+flag
+flexible, agile body shape
+flight attendant
+food (seeds, berries)
+food bowl
+forest
+forest or woods
+forklift (at loading areas)
+four long legs with hooves
+fuel (gas pump)
+fuel tank
+fur
+fur on clothing/furniture
+furniture (sofa, windowsill)
+fuselage (long body)
+grass
+grass or meadow
+hangar
+hay
+headlights
+headlights and taillights
+helm (wheel)
+herd
+highway or road
+hooved (cloven) feet
+hooves
+horseshoes
+hull
+hunters
+insects
+jet bridge
+jetway
+keys
+landing gear
+large, forward-facing eyes
+leaves
+leaves or shrubs
+lifeboats
+lily pads
+living thing
+load straps or tie-downs
+loading bay
+loading dock
+logs
+luggage
+machine
+mammal
+man-made structure
+mast
+meadow
+migration flocks
+mirrors
+moisture/wet mud
+mudflaps
+natural object
+navigation lights
+nest
+nests
+no tail (as an adult)
+nose (pointed front)
+nose (snout)
+object
+organism
+overhead bin
+parking lot
+passenger cabin or cargo hold
+passengers
+paws
+perches (wires, fences)
+physical object
+pilot
+pilots
+pointed ears
+poop bags
+port
+predators (cats, hawks)
+radar
+reeds
+reeds/grasses
+registration sticker
+rest stop
+retractable claws on paws
+rocks
+ropes (or lines)
+sails
+sails (or masts)
+seatbelt
+security checkpoint
+shrubs
+side mirrors
+skid marks
+sky
+smokestack (on powered ships)
+snakes
+snout (elongated muzzle)
+soft fur coat
+spare tire
+starboard
+sunlight/ a sunny spot
+sunlight/spot by a window
+tadpoles
+tailgate
+taillights
+tarmac
+terminal
+ticks/parasites
+tires
+toolbox
+toys (ball, chew toy)
+tracks
+tracks or footprints
+traffic
+traffic signs
+trail camera
+trailer hitch
+transportation
+tray table
+treats
+tree
+two legs with claws/feet
+vehicle-type (road vehicle)
+vertebrate
+vessel
+water
+water (stream or pond)
+water plants (algae)
+watercraft
+waves
+webbed hind feet for swimming
+wheels
+whiskers
+windows (passenger/cockpit)
+windows along the fuselage
+wings
+worms
